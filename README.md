@@ -1,4 +1,4 @@
-# Springboot + Mybatis
+# Springboot + Mybatis 学习记录 [详情 Tycoding spring-boot](https://github.com/TyCoding/spring-boot)
 
 ## 准备
 
